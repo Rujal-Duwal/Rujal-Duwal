@@ -14,6 +14,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rujal-Duwal/Rujal-Duwal/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rujal-Duwal&show_icons=true&theme=radical)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rujal-Duwal&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. :rocket:

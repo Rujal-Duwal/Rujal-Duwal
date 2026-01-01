@@ -4,7 +4,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,rails,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,rails,next,graphql)](https://skillicons.dev)
 
 ![Rujal-Duwal's Stats](https://github-readme-stats-qtg8.vercel.app/api?username=Rujal-Duwal&show_icons=true&theme=radical)
 

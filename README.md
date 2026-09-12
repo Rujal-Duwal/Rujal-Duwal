@@ -6,8 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,rails,next,graphql)](https://skillicons.dev)
 
-## ![Rujal-Duwal's Stats](https://github-readme-stats-qtg8.vercel.app/api?username=Rujal-Duwal&show_icons=true&theme=radical)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rujal-Duwal/Rujal-Duwal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rujal-Duwal/Rujal-Duwal/output/github-contribution-grid-snake.svg">
